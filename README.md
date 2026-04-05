@@ -26,5 +26,13 @@ See [Releases](https://github.com/neo3738-ai/rpe/releases) for the latest binari
 
 - [Ollama](https://ollama.com) running locally (or any OpenAI-compatible endpoint)
 
+## License
+
+Copyright (c) 2026 Neil — Horizon AI Protocol. All rights reserved.
+
+The compiled binaries are free to download and use. Source code is proprietary and not available for redistribution, modification, or commercial use without permission.
+
+For licensing inquiries: horizonaiprotocol.com
+
 ---
 Built by [Horizon AI Protocol](https://horizonaiprotocol.com)
